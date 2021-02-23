@@ -1,0 +1,3 @@
+ INSERT INTO  Project (id,name,color) VALUES (1L, "Projet Tartampion", 0xFFEADAD1),
+(2L, "Projet Lucidia", 0xFFB4CDBA),
+(3L, "Projet Circus", 0xFFA3CED2);
